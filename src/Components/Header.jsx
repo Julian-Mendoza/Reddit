@@ -29,7 +29,7 @@ const Header = () => {
   return (
     <header className="header">
       <div className="container">
-        <div className="logo">J&JMendoza</div>
+        <div className="logo">Reddit Clone</div>
         <button className="hamburger" onClick={toggleMenu}>
           Menu
         </button>
